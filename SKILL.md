@@ -1,4 +1,9 @@
-# Elastic Agentic Agent - Skill
+---
+name: elastic-agent
+description: "Elastic Agentic Agent - 组织型智能体系统。让 Agent 拥有招聘能力，按需组建团队。使用场景：创办公司、开发产品、复杂项目协作。触发词：创办、创建组织、招聘团队。"
+---
+
+# Elastic Agentic Agent
 
 让 Agent 拥有"招聘"能力，形成弹性组织。
 
