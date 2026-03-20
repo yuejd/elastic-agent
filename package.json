@@ -1,0 +1,18 @@
+{
+  "name": "elastic-agent",
+  "version": "0.1.0",
+  "description": "Elastic Agentic Agent - 组织型智能体系统",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "ts-node tests/demo.ts"
+  },
+  "keywords": ["agent", "openclaw", "elastic", "organization"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
